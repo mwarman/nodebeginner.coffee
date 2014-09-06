@@ -1,0 +1,12 @@
+{
+  "name": "nodebeginner.coffee",
+  "description": "follow along with the book 'the node beginner'",
+  "scripts": {},
+  "dependencies": {
+    "formidable": ""
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10"
+  }
+}
